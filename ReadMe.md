@@ -60,6 +60,7 @@ A big thanks to GitHub and all of Tesseract's contributors:
 * [nguyenq](https://github.com/nguyenq)
 * [Sojin1989](https://github.com/Sojin1989)
 * [jeschergui](https://github.com/jeschergui)
+* [Kyle Flanigan](https://github.com/ghostbust555)
 
 Also thanks to the following projects\resources without which this project would not exist in it's current form:
 
